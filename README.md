@@ -1,7 +1,7 @@
 Ceci est la charte de Lille en Comme'un 2020
 
-# ::!Version 
-0.001 on utilise Github pour suivre les différentes versions
+# Version 
+V0.001 on utilise Github pour suivre les différentes versions
 
 # Preambule
 Ce document est un brouillon et il le restera toujours. Cette charte sera sujette à des modifications régulière. C'est ainsi un ensemble "organique" de régles.
