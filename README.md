@@ -10,8 +10,7 @@ Ce document est un brouillon et il le restera toujours. Cette charte sera sujett
 Présentez une liste aux prochaines élections municipales 2020 à Lille, pour un seul et unique mandat. 
 Pour la constituer on tire au sort parmi un groupe à définir et on l'organise par ordre alphabétique?
 
-# Prenstielle
-## Cadre des réunions
+# Presentielle
 Chaque personne est celle qu'il faut pour le bon déroulement de la réunion. Les gens s'écoutent et se parlent sereinement.
 
 ## Designer les personnes qui modèrent nos réunions
