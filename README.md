@@ -1,6 +1,7 @@
 **Ce document est un brouillon et il le restera toujours.**
 
 # Version et modification
+* 0.005 Simplification de la façon de désigner une personne qui modère.
 * 0.004 Listage des versions garder juste le changement de la dernière version visible.
 
 # But concret:
@@ -11,8 +12,8 @@ Pour la constituer on tire au sort parmi un groupe à définir et on l'organise 
 Chaque personne est celle qu'il faut pour le bon déroulement de la réunion. Les gens s'écoutent et se parlent sereinement.
 
 ## Designer les personnes qui modèrent nos réunions
-On décide ensemble d'un temps limite de mandat avant la désignation. Une première personne lance un dé et la nième personne sur sa gauche va modérer -n étant le
-nombre sur le dé. Lorsqu'on le mandat de la personne qui modère touche à sa fin, si elle démissionne avant (ou si 1/3 des personnes présentes lèvent le pouce?) on 
+Une première personne lance un dé et la nième personne sur sa gauche va modérer -n étant le
+nombre sur le dé. Apès 20 minutes, ou si la personne qui modère démissionne avant on 
 relance alors une désignation, c'est la personne qui modérait qui relance le dé ainsi le pouvoir tourne.
 
 ## Rôle de la personne qui modère 
