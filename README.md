@@ -1,4 +1,4 @@
-Ce document est un brouillon et il le restera toujours. Cette charte sera sujette à des modifications régulière. C'est ainsi un ensemble "organique" de régles.
+**Ce document est un brouillon et il le restera toujours.**
 
 # Version et modification
 0.003 Mettre bien en valeur la première phrase
