@@ -1,10 +1,9 @@
-Ceci est la charte de Lille en Comme'un 2020
-
-# Version 
-V0.002 on utilise Github pour suivre les différentes versions
-
-# Preambule
 Ce document est un brouillon et il le restera toujours. Cette charte sera sujette à des modifications régulière. C'est ainsi un ensemble "organique" de régles.
+
+# Version et modification
+0.003 Mettre bien en valeur la première phrase
+0.002 Restructuration du doc
+0.001 on utilise Github pour suivre les différentes versions
 
 # But concret:
 Présentez une liste aux prochaines élections municipales 2020 à Lille, pour un seul et unique mandat. 
