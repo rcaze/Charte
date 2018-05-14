@@ -5,7 +5,7 @@
 * 0.004 Listage des versions garder juste le changement de la dernière version visible.
 
 # But concret:
-Présentez une liste aux prochaines élections municipales 2020 à Lille, pour un seul et unique mandat. 
+Présentez une liste de personnes libres de parti politique aux prochaines élections municipales 2020 à Lille, pour un seul et unique mandat. 
 Pour la constituer on tire au sort parmi un groupe à définir et on l'organise par ordre alphabétique?
 
 # Presentiel
